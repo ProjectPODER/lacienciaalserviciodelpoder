@@ -12,7 +12,10 @@
 		transition: padding 0s;
 	}
 	.navbar-nav .active > .nav-link {
-		background-color: #1d2124 !important;
+		background-color: #8e5585 !important;
 	}
 }
 
+a.bg-dark:hover, .nav-iframe a.nav-link:hover, a.bg-dark:focus, .nav-iframe a.nav-link:focus, button.bg-dark:hover, .nav-iframe button.nav-link:hover, button.bg-dark:focus, .nav-iframe button.nav-link:focus {
+    background-color: #8e5585 !important;
+}

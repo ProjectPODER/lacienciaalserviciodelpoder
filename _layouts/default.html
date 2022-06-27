@@ -3,12 +3,9 @@
 
   {%- include head.html -%}
 
-  <body class="d-flex flex-column min-vh-100">
-    {%- if site.top_menu -%}
-      {%- include header.html -%}
-    {%- endif -%}
+  <body class="bg-general">
+    {%- include header.html -%}
     {{ content }}
-    {%- include footer.html -%}
   </body>
 
 </html>

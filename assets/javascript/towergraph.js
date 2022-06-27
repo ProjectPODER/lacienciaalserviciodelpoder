@@ -1426,15 +1426,15 @@ function setupFullPage() {
             $('.labelText.contract_type').addClass('active');
             break;
           case 3:
-            newZoom = 0.5;
+            newZoom = 1;
             triggerUpdate(index, nextIndex, newZoom);
             break;
           case 4:
-            newZoom = 0.3;
+            newZoom = 0.7;
             triggerUpdate(index, nextIndex, newZoom);
             break;
           case 5:
-            newZoom = 0.20;
+            newZoom = 0.6;
             triggerUpdate(index, nextIndex, newZoom);
             break;
           case 6:
@@ -1666,7 +1666,7 @@ function setupD3() {
   };
   draw(graph);
   d3.selectAll('.nodes.all').transition().attr('r', d => d.activeSize);
-  tooltipHTML = $('.tooltip-graph');
+  tooltipHTML = $('.tooltip');
   function draw(graph) {
     const container = $('svg');
     const svg = $('svg');
@@ -1678,12 +1678,12 @@ function setupD3() {
     let tooltipLink;
 
     if (isDesktop) {
-      tooltip = d3.select(".tooltip-graph").attr("class", "tooltip-graph").style("opacity", 0).on("mouseover", function() {
+      tooltip = d3.select(".tooltip").attr("class", "tooltip").style("opacity", 0).on("mouseover", function() {
         tooltip.transition().duration(300).style("opacity", .98)
       }).on("mouseout", function() {
         tooltip.transition().duration(100).style("opacity", 0).style("pointer-events", "none")
       });
-      tooltipLink = d3.select(".tooltip-graph a").on("mouseover", function() {
+      tooltipLink = d3.select(".tooltip a").on("mouseover", function() {
         tooltip.transition().duration(300).style("opacity", .98)
       }).on("mouseout", function() {
         tooltip.transition().duration(100).style("opacity", 0).style("pointer-events", "none")

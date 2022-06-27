@@ -8,41 +8,31 @@ Ahora comenzarás a darle forma a tu sitio, tendrás que definir un nombre para 
 
 3. Da click en el botón "edit" en la parte superior derecha.
 
-4. Comienza a cambiar valores. Este archivo está en un formato llamado YAML, esto significa que está compuesto por una serie de pares de variables con sus valores, cada línea comienza con un nombre de variable, un signo de dos puntos (:) y luego el valor.
+4. Comienza a cambiar valores. Este archivo está en un formato llamado YAML, esto significa que está compuesto por una serie de pares de variables con sus valores, cada línea comienza con un nombre de variable, un signo de dos puntos (:) y luego el valor. 
 
 	```
 	variable: valor
 	```
 
-	No debes cambiar nunca los nombres de las variables, sólo cambiarás lo que viene después de los dos puntos.
-
+	No debes cambiar nunca los nombres de las variables, sólo cambiarás lo que viene después de los dos puntos. 
+    
     - Lo primero que vas a cambiar es la variable _title_, esta define el nombre que tendrá tu sitio en diferentes lugares tales como la solapa del navegador, los resultados de búsqueda y en el encabezado del sitio. Para esto busca donde dice:
-
+	
 	```
-    title: "Tower Builder"
+    title: "TowerBuilder" 
 	```
-    y cambia el valor entre comillas por el título de tu sitio, por ejemplo
+    y cambia el valor entre comillas por el título de tu sitio, por ejemplo 
 	```
     title: "Análisis de contrataciones de la carretera sur".
 	```
 
-	- Otros valores importantes a cambiar son:
+	- Otros valores importantes a cambiar son: 
 
 	```
-    image: tb-logo.png -> # cambiarlo por el logo de tu proyecto o dejarlo vacío, es opcional
-    description: >-
-  	# Modifica el texto existente y pon la descripción de tu proyecto aquí.
+    image: tb-logo.png -> cambiarlo por el logo de tu proyecto o dejarlo vacío, es opcional
+    description: >- 
+  	Modifica el texto existente y pon la descripción de tu proyecto aquí. 
 	```
-
-    - Para habilitar o deshabilitar el menú superior, cambiar entre true o false la siguiente variable:
-    ```
-    top_menu: true
-    ```
-
-    - Para cambiar el título del item del menú superior (aparece cuando hay varios items en el menú o cuando se ajusta la vnta a pantallas más pequeñas):
-    ```
-    menu_button_title: More information
-    ```
 
 	  Para cambiar el logo, sigue [estas instrucciones](https://towerbuilder.readthedocs.io/en/latest/C2/Seccion3.html#cambiar-el-logo).
 
@@ -113,33 +103,7 @@ Ahora comenzarás a darle forma a tu sitio, tendrás que definir un nombre para 
     show_excerpts: true
 	future: true
 	```
-
+	
 	Para conocer más sobre estas opciones visita [este link](https://jekyllrb.com/docs/posts/).
 
 Si quieres conocer opciones más avanzadas sobre este archivo de configuración, visita la [documentación oficial de Jekyll](https://jekyllrb.com/docs/configuration/options/).
-
-
-Para agregar analytics al sitio, puedes agregar alguna de estas opciones:
-
-```
-# Analytics Configuration
-jekyll_analytics:
-  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: UA-123-456          # Required - replace with your tracking id
-    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
-
-  Matomo:                   # Add, if you want to track with Matomo (former Piwik Analytics)
-    url: matomo.example.com # Required - url to Matomo installation without trailing /
-    siteId: "1234"          # Required - replace with your Matomo site id (Write id as string)
-
-  Piwik:                    # Add, if you want to track with Piwik
-    url: piwik.example.com  # Required - url to Piwik installation without trailing /
-    siteId: "1234"          # Required - replace with your Piwik site id (Write id as string)
-
-  MPulse:                   # Add if you want to track performance with mPulse
-    apikey: XXXXX-YYYYY-ZZZZZ-AAAAA-23456   # Required - replace with your mPulse API key
-
-  Plausible:
-    domain: 'example.com'   # The domain configured in plausible
-    source: 'https://plausible.example.com/js/plausible.js' # The source of the javascript
-```

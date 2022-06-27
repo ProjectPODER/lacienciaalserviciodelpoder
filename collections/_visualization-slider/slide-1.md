@@ -1,8 +1,8 @@
 ---
 title: Slide 1
-image: visualization-example.png
+image: graph1.png
 ---
 
-# THIS IS THE FIRST SLIDE
+# Los FOMIX, peso por peso
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+196,236,155.89 pesos provenientes de los fideicomisos conocidos como Fondos Mixtos (FOMIX) del Consejo Nacional de Ciencia y Tecnología (Conacyt), fueron aprovechados por el La Secretaría de Infraestructura y Obra Pública (SIOP), del Gobierno de Jalisco; la Agencia Espacial Mexicana, el Centro de Cambio Climático Global y la Sustentabilidad A.C., y la Academia Mexicana de la Ciencia; estas últimas asociaciones civiles, para desarrollar proyectos plagados de irregularidades, o bien, precarizar el trabajo científico.
