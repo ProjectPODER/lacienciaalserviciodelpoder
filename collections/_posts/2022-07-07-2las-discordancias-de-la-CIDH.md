@@ -42,7 +42,7 @@ Tres años después, tras la transición presidencial, hablar del tema era ya un
 El arribo de Calderón Hinojosa y su política de “combate al narcotráfico”, cambió el rumbo de todas las personas que se dedicaban a inspeccionar minas para evitar más desastres. Y comienza el tema de las desapariciones. Las mismas familias de Pasta de Conchos decían “es que nosotros sí sabemos dónde están, pero si nosotros salimos a decir que queremos que nos entreguen a nuestro familiares, los demás iban a desestimar la lucha ante la crisis humanitaria por desapariciones. Entonces, a las familias les daba pena preguntar, porque estaba todo el tema de la violencia.”
 
 <div class="embed-responsive embed-responsive-16by9">
-	<iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=AU6pzuUerbI" allowfullscreen></iframe>
+	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/AU6pzuUerbI" allowfullscreen></iframe>
 </div>
 <br>
 
