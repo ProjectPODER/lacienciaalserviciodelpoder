@@ -41,7 +41,7 @@ Al respecto de la deuda, el actual director, José Romero Tellaeche, comentó en
 –Lo que más les interesa ahora (al personal docente) es que se liberen las Reglas de Operación para que puedan seguir recibiendo proyectos externos y ganen más dinero que el que se gana por el sueldo como profesores. Para eso se pusieron unas reglas de operación muy estrictas y requieren aprobación. Parte de los cambios que hicimos es que ahora, ni el Director General, el Secretario Académico o el Secretario de Vinculación pueden participar en proyectos para evitar el conflicto de intereses cosa que sí hacían en el pasado.
 
 <div class="embed-responsive embed-responsive-16by9">
-	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/pFPKhru9-S4&t=32s" allowfullscreen></iframe>
+	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/pFPKhru9-S4" allowfullscreen></iframe>
 </div>
 <br>
 
