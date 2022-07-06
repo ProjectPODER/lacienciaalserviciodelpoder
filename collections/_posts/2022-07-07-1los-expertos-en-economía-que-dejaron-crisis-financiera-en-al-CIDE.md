@@ -18,7 +18,7 @@ Pero la complejidad real aparece cuando, el 02 de abril de 2020, el Gobierno Mex
 Hasta ese momento, el CIDE tenía dos formas de obtener recursos para operar: la primera consistía en la recepción del presupuesto anual federal como parte del Consejo Nacional de Ciencia y Tecnología (Conacyt); y la segunda era la generación de recursos propios por proyectos de investigación, programas de educación continua y convenios internacionales.
 
 {:.image-post}
-![Profesores con saldos por cobrar]({{ site.baseurl }}/assets/img/CIDE/"photo1656380143(1).jpeg")
+![Interior del CIDE]({{ site.baseurl }}/assets/img/CIDE/photo1656380143(1).jpeg)
 
 La segunda ruta de financiación, la que categorizaron como recursos propios, justamente hacía uso de los fideicomisos recién extintos, conocidos como Fondos de Investigación Científica y Desarrollo Tecnológico. Este era el tipo genérico que usaban todas las instituciones académicas del país conocidas como Centros Públicos de Investigación o CPI conformado por un total de 26 instalaciones ubicadas en diferentes puntos del territorio nacional[^nota2].
 
@@ -32,7 +32,7 @@ El conflicto en esta institución académica encrudece cuando los llamados Fondo
 
 
 {:.image-post}
-![Profesores con saldos por cobrar]({{ site.baseurl }}/assets/img/CIDE/)
+![Profesores con saldos por cobrar]({{ site.baseurl }}/assets/img/CIDE/90M LISTADO DE PERSONAL ADEUDO ESTÍMULOS.pdf)
 
 Al respecto de la deuda, el actual director, José Romero Tellaeche, comentó en entrevista exclusiva para PODER que se trata de un sistema insostenible en donde, además de generar privilegios, se promovían situaciones como el conflicto de interés, y explica lo siguiente:
 
