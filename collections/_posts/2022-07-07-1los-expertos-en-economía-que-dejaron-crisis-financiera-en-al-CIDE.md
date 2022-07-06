@@ -2,22 +2,25 @@
 layout: post
 title: Los “expertos” en economía que dejaron crisis financiera en al CIDE
 author: "Ricardo Balderas"
-image:
+image:"photo1656379727(1).jpeg"
 ---
 
 Es cierto que en el Centro de Investigación y Docencia Económica A.C. (CIDE) está transitando por una crisis; también es cierto que existe una deuda de salario con los profesores que ahí trabajan. Y también es cierto que la comunidad estudiantil continúa exigiendo la expulsión del actual director,  José Antonio Romero, por considerarlo un funcionario apócrifo. Sin embargo, también es cierto que el conflicto va más allá de un titular impuesto o una deuda pendiente. Se trata de un centro de investigación, especializado en ciencias económicas, que llegó a la actual administración con un conflicto de presunta malversación de fondos, lujos ejercidos por exdirectores, insuficiencia presupuestal y señalamientos por gastos no justificados ante la Auditoria Superior de la Federación (ASF)[^nota1].
 
 En ese contexto, se abrieron diferentes frentes de discusión sobre el centro de estudios. En primer lugar, entre las y los estudiantes quienes exigen participación en los procesos de elección de sus directores; luego algunos profesores y profesoras, quienes exigen seguir recibiendo fondos extras a sus salarios; y finalmente, los políticos de oposición y la actual administración encabezada por Andrés Manuel López Obrador (AMLO), que se sostienen en un debate frontal.
 
-El problema comienza con la llegada del actual titular del CIDE, el doctor José Antonio Romero Tellaeche. Posteriormente, tras la destitución de trabajadores de confianza presuntamente por desacatar órdenes del director, el conflicto acrecienta y comienza a tomar relevancia en algunos periódicos del país.
+El problema comienza con la llegada del actual titular del CIDE, el doctor José Antonio Romero Tellaeche. Posteriormente, tras la destitución de trabajadores y trabajadoras de confianza, presuntamente, por desacatar órdenes del director. El conflicto comienza a tomar relevancia en algunos periódicos del país.
 
-Pero la complejidad real aparece cuando, el 02 de abril de 2020, el Gobierno Mexicano anuncia la desaparición de ciertos fondos (fideicomisos) con el objetivo de cumplir el mandato de austeridad republicana anunciado por el propio Presidente.
+Pero la complejidad real aparece cuando, el 02 de abril de 2020, el Gobierno Mexicano anuncia la desaparición de fondos (fideicomisos) con el objetivo de cumplir el mandato de austeridad republicana anunciado por el propio Presidente.
 
 “Resulta necesario analizar la permanencia de fideicomisos y fondos públicos, por lo que he determinado que los recursos públicos que los integren sean enterados en términos de las disposiciones aplicables a la Tesorería de la Federación y se lleven a cabo los procesos para su extinción”, cita el documento en manos de PODER. Unos meses después del anuncio, en octubre de 2020, ya se había publicado desde Presidencia la extinción de diversos fideicomisos en el Diario Oficial de la Federación.
 
 Hasta ese momento, el CIDE tenía dos formas de obtener recursos para operar: la primera consistía en la recepción del presupuesto anual federal como parte del Consejo Nacional de Ciencia y Tecnología (Conacyt); y la segunda era la generación de recursos propios por proyectos de investigación, programas de educación continua y convenios internacionales.
 
-La segunda ruta de financiación, la que categorizaron como “recursos propios”, justamente hacía uso de los fideicomisos recién extintos, conocidos como Fondos de Investigación Científica y Desarrollo Tecnológico. Este era el tipo genérico que usaban todas las instituciones académicas del país conocidas como Centros Públicos de Investigación o CPI conformado por un total de 26 instalaciones ubicadas en diferentes puntos del territorio nacional[^nota2].
+{:.image-post}
+![Profesores con saldos por cobrar]({{ site.baseurl }}/assets/img/CIDE/"photo1656380143(1).jpeg")
+
+La segunda ruta de financiación, la que categorizaron como recursos propios, justamente hacía uso de los fideicomisos recién extintos, conocidos como Fondos de Investigación Científica y Desarrollo Tecnológico. Este era el tipo genérico que usaban todas las instituciones académicas del país conocidas como Centros Públicos de Investigación o CPI conformado por un total de 26 instalaciones ubicadas en diferentes puntos del territorio nacional[^nota2].
 
 A pesar de la desaparición de estos fideicomisos publicada en el Diario Oficial de la Federación (DOF), ningún CPI se encuentra en riesgo de desaparecer[^nota3]. Pero el problema con las finanzas continuó generando descontento de un parte de la comunidad académica.
 
@@ -31,13 +34,12 @@ El conflicto en esta institución académica encrudece cuando los llamados Fondo
 {:.image-post}
 ![Profesores con saldos por cobrar]({{ site.baseurl }}/assets/img/CIDE/)
 
-Al respecto de la deuda, el actual director, Romero Tellaeche, comentó en entrevista exclusiva para PODER que se trata de un sistema insostenible en donde, además de generar privilegios, se promovían situaciones como el conflicto de interés, y explica lo siguiente:
+Al respecto de la deuda, el actual director, José Romero Tellaeche, comentó en entrevista exclusiva para PODER que se trata de un sistema insostenible en donde, además de generar privilegios, se promovían situaciones como el conflicto de interés, y explica lo siguiente:
 
 –Lo que más les interesa ahora (al personal docente) es que se liberen las Reglas de Operación para que puedan seguir recibiendo proyectos externos y ganen más dinero que el que se gana por el sueldo como profesores. Para eso se pusieron unas reglas de operación muy estrictas y requieren aprobación. Parte de los cambios que hicimos es que ahora, ni el Director General, el Secretario Académico o el Secretario de Vinculación pueden participar en proyectos para evitar el conflicto de intereses cosa que sí hacían en el pasado.
 
-[Video_ROMERO_01]
 <div class="embed-responsive embed-responsive-16by9">
-	<iframe class="embed-responsive-item" src="" allowfullscreen></iframe>
+	<iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=pFPKhru9-S4&t=32s" allowfullscreen></iframe>
 </div>
 
 Es decir, el dinero no ha desaparecido de las arcas del erario, pero se usará de manera distinta, en palabras del director: “con más cautela”. Otro punto relevante, es que existen casos de profesores que concentraban estos fondos y los proyectos que ahora mismo se encuentran en disputa.
@@ -61,12 +63,6 @@ PODER intentó contactar con los exdirectores, Sergio López Ayllón y Enrique C
 Dentro de estas disputas, aparecieron en medios de comunicación y redes sociales, múltiples acusaciones en contra de ambos grupos. En primer lugar aparecieron dos denuncias por presunto plagio en contra del actual director, José Romero. Sucesivamente, vía MéxicoLeaks, PODER tuvo acceso a documentos donde se denuncia que uno de los profesores que encabezan la campaña en contra del actual director, Jean Meyer, también es acusado de plagio desde hace poco más de 40 años sin que esto tuviera alguna repercusión para el docente.
 
 En lo que respecta al caso del titular del CIDE, José Romero, el funcionario explica que luego de que se hiciera el anuncio de que la extitular del programa de periodismo, Grisel Salazar, fuera removida de ese cargo sin ser despedida, se desató una ola de ataques en su contra: “Remover a la directora de periodismo, no se le despidió sigue trabajando en la institución, pero eso fue lo que desató la búsqueda de qué me encontraban para desacreditar. De ahí vino una acusación de plagio que apareció en Primera plena del universal y que me dedicó una página completa en la sección de Cultura” (sic), explica. Asimismo, el académico mostró pruebas de las rutas que tomó para responder a dichas acusaciones.
-
-[VIDEO_ROMERO_02]
-<div class="embed-responsive embed-responsive-16by9">
-	<iframe class="embed-responsive-item" data-src="" allowfullscreen></iframe>
-</div>
-
 
 El tema del que habla el director, derivó en la presentación de una denuncia formal ante la Comisión de Ética en donde 29 integrantes del cuerpo docente denuncian a Romero argumentando que el presunto plagio, constituye un agravio en contra de la honorabilidad del instituto. Y donde efectivamente, Grisel Salazar, es una de las firmantes.
 
