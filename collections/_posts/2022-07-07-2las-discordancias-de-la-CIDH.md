@@ -13,9 +13,8 @@ La portada de un diario nacional sacudió el día de Elvira Martínez. Ella no s
 
 Y es que la propia CIDH, en la Recomendación 26/2006 y 12/18, determinó que “los servidores públicos de la Secretaría del Trabajo y Previsión Social toleraron que la referida empresa funcionara en condiciones que no garantizaban íntegramente la salud y la vida de los trabajadores”. Dicho acto no habría sido posible de no ser porque los integrantes del Foro Consultivo A.C., validaron la versión de la Secretaría del Trabajo con un informe que modificaron, según narra Elvira, de última hora y sin consultar con el resto de mineros o familiares[^nota2].
 
-[Entrevista_Elvira]
 <div class="embed-responsive embed-responsive-16by9">
-	<iframe class="embed-responsive-item" src="ttps://www.youtube.com/watch?v=vydaLZxAzTk" allowfullscreen></iframe>
+	<iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=vydaLZxAzTk" allowfullscreen></iframe>
 </div>
 <br>
 
@@ -51,7 +50,8 @@ A pesar del temor que esas declaraciones pueden ocasionar en ciertas personas, e
 Auerbach Benavides se refiere a las familias Montemayor y Garza González, responsables de los desastres mineros en el pozo 03 en Sabinas donde también murieron alrededor de 80 trabajadores[^nota4].
 
 Bajo ese contexto, PODER solicitó entrevista en más de 7 ocasiones con las autoridades de la CIDH con el objetivo de saber si la institución estaba al tanto de lo ocurrido. Sin embargo, primero derivaron la solicitud a la relatora encargada del tema y después, simplemente dejaron de responder.
-
+{:.image-post}
+![Cristina]({{ site.baseurl }}/assets/img/CIDH/WhatsApp Image 2022-06-18 at 3.52.38 PM.jpeg)
 {:.image-post}
 ![Elvira]({{ site.baseurl }}/assets/img/CIDH/WhatsApp Image 2022-06-18 at 7.06.21 PM.jpeg)
 ______________________
@@ -59,8 +59,7 @@ ______________________
 Reportaje de Ricardo Balderas editado por Elena Arengo.
 
 
-{:.image-post}
-![]({{ site.baseurl }}/assets/img/CIDH/WhatsApp Image 2022-06-18 at 3.52.38 PM.jpeg)
+
 
 
 [^nota1]: [REDESCA (2022). Informe anual de la relatoría especial sobre derechos económicos, sociales, culturales y ambiantales.](http://www.oas.org/es/cidh/docs/anual/2021/capitulos/redesca-es.PDF)
