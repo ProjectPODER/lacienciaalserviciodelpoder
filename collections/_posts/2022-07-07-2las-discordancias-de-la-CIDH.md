@@ -2,7 +2,7 @@
 layout: post
 title: "Las discordancias de la CIDH: una historia de cárteles y entierros"
 author: "Ricardo Balderas"
-image:
+image: WhatsApp Image 2022-06-18 at 3.54.21 PM(2).jpeg
 ---
 
 El 6 de junio de este año, la Relatoría Especial sobre los Derechos Económicos, Sociales, Culturales y Ambientales (REDESCA) de la Comisión Interamericana de Derechos Humanos (CIDH) emitió su más reciente informe anual[^nota1]. Y en el apartado de Educación, en lo que respecta a la libertad académica, la institución internacional se pronunció “profundamente preocupada” por la investigación en contra de 31 científicos derivada de un presunto caso de asociación delictuosa. El documento levantó las alarmas de múltiples víctimas en el estado de Coahuila, dado que se trataba de las mismas personas que en 2007 apoyaron la decisión de la Secretaría del Trabajo de dejar enterrados a sus familiares en el interior de una mina propiedad de una de las empresas más grandes del país, Grupo México.
@@ -15,7 +15,7 @@ Y es que la propia CIDH, en la Recomendación 26/2006 y 12/18, determinó que �
 
 [Entrevista_Elvira]
 <div class="embed-responsive embed-responsive-16by9">
-	<iframe class="embed-responsive-item" src="" allowfullscreen></iframe>
+	<iframe class="embed-responsive-item" src="ttps://www.youtube.com/watch?v=vydaLZxAzTk" allowfullscreen></iframe>
 </div>
 <br>
 
@@ -30,6 +30,9 @@ Existen varios dictámenes relacionados al desastre de Pasta de Conchos. Pero el
 “Cuando los integrantes del Foro Consultivo A.C. llegan con Javier Lozano - y esto me lo dijo a mi Fernández Zayas (extitular del Foro Consultivo A.C.) -  el que puso el párrafo de que no se se haga nada hasta que cambien las condiciones fue el mismo Javier Lozano”, explica Auerbach Benavides.
 
 La activista también revela que Javier Lozano hizo firmar un documento de confidencialidad a Fernández Zayas para que este no pudiera hablar sobre las negociaciones.
+
+{:.image-post}
+![Documento firmado por Lozano del Foro A.C.]({{ site.baseurl }}/assets/img/CIDH/Captura de pantalla de 2021-09-25 15-19-30.png)
 
 –“Yo personalmente me vi varias veces con José Luis Fernández Zayas. Yo intenté entregarle información y al poco tiempo ya no la quería recibir. Después, ya no lo vi hasta que estaba entregando el informe y el dictamen mentado que escribió en el último párrafo Javier Lozano. ¿Qué creo yo que hicieron muy mal?: no defender su postura. Porque el mismo día que sale Javier Lozano a decir que no se hará el rescate porque el Foro dice, Fernández Zayas estaba con nosotras, frente a la prensa y diciendo que sí se podía hacer; pero sólo lo dijo a la prensa que ya lo había firmado. Frente al Estado se quedaron callados.”
 
@@ -49,14 +52,15 @@ Auerbach Benavides se refiere a las familias Montemayor y Garza González, respo
 
 Bajo ese contexto, PODER solicitó entrevista en más de 7 ocasiones con las autoridades de la CIDH con el objetivo de saber si la institución estaba al tanto de lo ocurrido. Sin embargo, primero derivaron la solicitud a la relatora encargada del tema y después, simplemente dejaron de responder.
 
-
+{:.image-post}
+![Elvira]({{ site.baseurl }}/assets/img/CIDH/)
 ______________________
 
 Reportaje de Ricardo Balderas editado por Elena Arengo.
 
 
 {:.image-post}
-![]({{ site.baseurl }}/assets/img/CIDH/)
+![]({{ site.baseurl }}/assets/img/CIDH/WhatsApp Image 2022-06-18 at 3.52.38 PM.jpeg)
 
 
 [^nota1]: [REDESCA (2022). Informe anual de la relatoría especial sobre derechos económicos, sociales, culturales y ambiantales.](http://www.oas.org/es/cidh/docs/anual/2021/capitulos/redesca-es.PDF)
