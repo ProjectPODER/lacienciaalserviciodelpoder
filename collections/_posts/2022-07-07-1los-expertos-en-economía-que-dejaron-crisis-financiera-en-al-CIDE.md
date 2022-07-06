@@ -42,6 +42,7 @@ Al respecto de la deuda, el actual director, José Romero Tellaeche, comentó en
 	<iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=pFPKhru9-S4&t=32s" allowfullscreen></iframe>
 </div>
 
+
 Es decir, el dinero no ha desaparecido de las arcas del erario, pero se usará de manera distinta, en palabras del director: “con más cautela”. Otro punto relevante, es que existen casos de profesores que concentraban estos fondos y los proyectos que ahora mismo se encuentran en disputa.
 
 Por ejemplo, el número habitual de proyectos asignados es de dos a cuatro por académico, no obstante, doce profesores estuvieron recibiendo fondos por presuntamente ejecutar de 5 a 10 proyectos al mismo tiempo que sus responsabilidades como docentes del CIDE. En algunos casos como el Jessica Ley Gutierrez o David Arellano Gault, quienes posteriormente denunciarían al director del CIDE, ostentan siete y cinco proyectos al mismo tiempo.
