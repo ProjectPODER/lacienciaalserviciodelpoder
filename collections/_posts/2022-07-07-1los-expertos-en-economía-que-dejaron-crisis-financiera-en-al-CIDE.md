@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Los “expertos” en economía que dejaron crisis financiera en al CIDE
+title: Los “expertos" en economía que dejaron crisis financiera en al CIDE
 author: "Ricardo Balderas"
 image:"photo1656379727(1).jpeg"
 ---
@@ -76,13 +76,13 @@ Salazar Rebolledo también comenta que actualmente se encuentra en mitad de un p
 
 
 {:.image-post}
-![Imagen_denuncia_VS_ Romero]({{ site.baseurl }}/assets/img/CIDE/)
+![Imagen_denuncia_VS_ Romero]({{ site.baseurl }}/assets/img/CIDE/WhatsApp Image 2022-06-29 at 9.40.31 AM.jpeg)
 
 {:.image-post}
-![Denuncia_trimestre]({{ site.baseurl }}/assets/img/CIDE/)
+![Denuncia_trimestre]({{ site.baseurl }}/assets/img/CIDE/Denuncia del Trimestre.pdf)
 
 {:.image-post}
-![MEYER_PLAGIO]({{ site.baseurl }}/assets/img/CIDE/)
+![MEYER_PLAGIO]({{ site.baseurl }}/assets/img/CIDE/JEAN_MEYER.png)
 
 Sobre la denuncia de presunto plagio que refiere al académico Jean Meyer, Salazar Robolledo comentó que su grupo no se han cuestionado comenzar un proceso como el que inician en contra de Romero Tellaeche dado a que es un tema que pasó hace mucho tiempo: “Este tema no se planteó porque no surgió en este momento; en el momento en el que Meyer fue acusado de plagio, probablemente, quienes estaban activamente en el CIDE habrán hecho un posicionamiento”, explicó.
 
@@ -91,6 +91,9 @@ Por su parte, el académico Jean Meyer, culpó a una editorial por las acusacion
 Otro conflicto que apareció en este escenario fue el de los ataques en contra de la nueva titular del programa de periodismo CIDE, Ruth Dávila, quien comentó para este medio de comunicación que, de hecho, ella prestaba poca relevancia a esos comentarios dado que por el momento se encuentra concentrada en tener un programa académico eficiente. Y agrega que actualmente dicho programa tiene a una persona con formación plena y comprobable para ejercer funciones, refiriéndose a su antecesora quien, según la propia descripción del CIDE no pose experiencia en medios de comunicación[^nota5].
 
 –Mira, lo que te puedo decir es que yo sí tengo una formación sólida en el periodismo y la comunicación, porque bueno, soy de formación periodista estudié en la UNAM, tengo un doctorado en Ciencias Políticas, después hice dos postdoctorados uno de ellos en la Universidad de Michoacán en San Nicolás de Hidalgo donde mi investigación fue sobre el análisis de discurso periodístico. Fui muy activa en medios de comunicación durante 2020, en ese año de la pandemia, me pareció muy importante hacer trabajo de divulgación, sobre todo investigué a gente que estaba trabajando en tema de vacunas, publiqué artículos de opinión y publicar reseñas de libros.
+
+{:.image-post}
+![Director y nueva titular del programa de periodismo]({{ site.baseurl }}/assets/img/CIDE/photo1656379727(6).jpeg)
 
 ## La politización del CIDE es real
 
