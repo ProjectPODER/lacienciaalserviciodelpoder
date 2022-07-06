@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Los “expertos" en economía que dejaron crisis financiera en al CIDE
+title: Los expertos en economía que dejaron crisis financiera en al CIDE
 author: "Ricardo Balderas"
-image:"photo1656379727(1).jpeg"
+image: "photo1656379727(1).jpeg"
 ---
 
 Es cierto que en el Centro de Investigación y Docencia Económica A.C. (CIDE) está transitando por una crisis; también es cierto que existe una deuda de salario con los profesores que ahí trabajan. Y también es cierto que la comunidad estudiantil continúa exigiendo la expulsión del actual director,  José Antonio Romero, por considerarlo un funcionario apócrifo. Sin embargo, también es cierto que el conflicto va más allá de un titular impuesto o una deuda pendiente. Se trata de un centro de investigación, especializado en ciencias económicas, que llegó a la actual administración con un conflicto de presunta malversación de fondos, lujos ejercidos por exdirectores, insuficiencia presupuestal y señalamientos por gastos no justificados ante la Auditoria Superior de la Federación (ASF)[^nota1].
