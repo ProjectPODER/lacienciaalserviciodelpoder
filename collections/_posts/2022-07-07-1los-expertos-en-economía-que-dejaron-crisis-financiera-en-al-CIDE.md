@@ -32,7 +32,7 @@ El conflicto en esta institución académica encrudece cuando los llamados Fondo
 
 
 <div class="embed-responsive embed-responsive-4by3 mb-4">
-  <iframe class="embed-responsive-item" src="/assets/img/CIDE/90M-LISTADO-DE-PERSONAL-ADEUDO-ESTÍMULOS.pdf"></iframe>
+  <iframe class="embed-responsive-item" src="/lacienciaalserviciodelpoder/assets/img/CIDE/90M-LISTADO-DE-PERSONAL-ADEUDO-ESTÍMULOS.pdf"></iframe>
 </div>
 <br>
 
@@ -83,7 +83,7 @@ Salazar Rebolledo también comenta que actualmente se encuentra en mitad de un p
 <br>
 
 <div class="embed-responsive embed-responsive-4by3 mb-4">
-  <iframe class="embed-responsive-item" src="/assets/img/CIDE/Denuncia-del-Trimestre.pdf"></iframe>
+  <iframe class="embed-responsive-item" src="/lacienciaalserviciodelpoder/assets/img/CIDE/Denuncia-del-Trimestre.pdf"></iframe>
 </div>
 <br>
 

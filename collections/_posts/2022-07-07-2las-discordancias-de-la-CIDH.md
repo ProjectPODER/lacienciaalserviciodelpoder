@@ -17,6 +17,7 @@ Y es que la propia CIDH, en la Recomendación 26/2006 y 12/18, determinó que �
 <div class="embed-responsive embed-responsive-16by9">
 	<iframe class="embed-responsive-item" src="" allowfullscreen></iframe>
 </div>
+<br>
 
 La portada del diario que sorprendió a Elvira, decía lo siguiente: “Comisión Interamericana de Derechos Humanos. Concluyen que los 31 científicos habrían aclarado transferencias”, refiriéndose justamente a aquellos que en épocas de Javier Lozano frente a la Secretaría del Trabajo, avalaron el entierro de los mineros, entre ellos el esposo de Elvira[^nota3].
 
