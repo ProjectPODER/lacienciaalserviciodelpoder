@@ -2,7 +2,7 @@
 layout: post
 title: El día que el COLEF Sur expulsó a los EE.UU de la frontera
 author: "Ricardo Balderas"
-image:
+image: CUERPOS_DE_PAZ.jpg
 ---
 El exdirector del Consejo Nacional de Ciencia y Tecnología (Conacyt), Jaime Parada Avila, firmó un contrato con el gobierno de Estados Unidos para atraer un cuerpo de “investigadores especializados en ciencias económicas y tecnológicas” que en otras partes del mundo fueron expulsados y acusados de nexos con el narcotráfico e intervencionismo. Se trata de un grupo de personas pertenientes a los Cuerpos de Paz, que el propio gobierno de Estados Unidos calificó como: “Evangelizadores de la democracia”. Ahora mismo, ninguna autoridad tiene información verificable de lo que estos académicos estuvieron realizando en México o cuánto costó que estos elementos operaran en tierras nacionales.
 
@@ -13,11 +13,15 @@ Estos elementos (los Peace Corps) llegaron a México a través del Consejo Nacio
 PODER solicitó vía transparencia todos los acuerdos y facturas firmados entre las autoridades mexicanas y el Gobierno de Estados Unidos. No obstante, según se revela en los folios de acceso a la información, nadie tiene información sobre las denuncias de académicos que datan desde 2007 cuando fueron expulsados del estado de Chiapas acusados por intervenir en decisiones del Estado Mexicano; y tampoco se poseen registros de dónde operan y con qué recursos. O simplemente, nadie las documentó.
 
 
-{:.image-post}
-![CONTRATO_PEACE_CORPS]({{ site.baseurl }}/assets/img/Cuerpos_de_paz/)
+<div class="embed-responsive embed-responsive-4by3 mb-4">
+  <iframe class="embed-responsive-item" src="/lacienciaalserviciodelpoder/assets/img/Cuerpos_de_paz/UASR-231.pdf"></iframe>
+</div>
+<br>
 
-{:.image-post}
-![FOLIO_PNT]({{ site.baseurl }}/assets/img/Cuerpos_de_paz/)
+<div class="embed-responsive embed-responsive-4by3 mb-4">
+  <iframe class="embed-responsive-item" src="lacienciaalserviciodelpoder/assets/img/Cuerpos_de_paz/document(23).pdf"></iframe>
+</div>
+<br>
 
 Al poco tiempo, académicos como Janeth Restrepo y Alfonso Insuasty reportaban casos de nexos con grupos criminales en Colombia con el objetivo de constituir un nuevo modelo de tráfico de drogas en América Latina[^nota2].
 
@@ -36,7 +40,7 @@ Este fenómeno de los Cuerpos de Paz, toma especial relevancia en un contexto de
 
 [VIDEO_GARDUÑO]
 <div class="embed-responsive embed-responsive-16by9">
-	<iframe class="embed-responsive-item" src="" allowfullscreen></iframe>
+	<iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=GhGeMY1RjQs" allowfullscreen></iframe>
 </div>
 
 
@@ -63,7 +67,7 @@ El proyecto “Inteligencia global” (The Global Intelligence en inglés), diri
 
 
 {:.image-post}
-![IMAGEN_WIKILEAKS]({{ site.baseurl }}/assets/img/Cuerpos_de_paz/)
+![IMAGEN_WIKILEAKS]({{ site.baseurl }}/assets/img/Cuerpos_de_paz/Peace_Corps_Military.png)
 
 La trama narrada en los cables de Wikileaks revela, por ejemplo, el caso de una solicitud al Gobierno de México para que interfiera en la extradición de un grupo de voluntarios (sin especificar cuántos ni quiénes) de Belice a México para que estos puedan ser interrogados por presuntos agentes de la DEA que operaban en territorio nacional con el objetivo de determinar su presunta responsabilidad con el tráfico de drogas en aquel país. Dicho documento fue desclasificado el 30 de junio de 2005 pero data de 1974.
 
