@@ -41,6 +41,11 @@ Tres años después, tras la transición presidencial, hablar del tema era ya un
 
 El arribo de Calderón Hinojosa y su política de “combate al narcotráfico”, cambió el rumbo de todas las personas que se dedicaban a inspeccionar minas para evitar más desastres. Y comienza el tema de las desapariciones. Las mismas familias de Pasta de Conchos decían “es que nosotros sí sabemos dónde están, pero si nosotros salimos a decir que queremos que nos entreguen a nuestro familiares, los demás iban a desestimar la lucha ante la crisis humanitaria por desapariciones. Entonces, a las familias les daba pena preguntar, porque estaba todo el tema de la violencia.”
 
+<div class="embed-responsive embed-responsive-16by9">
+	<iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=AU6pzuUerbI" allowfullscreen></iframe>
+</div>
+<br>
+
 –¿Sabes qué creo al paso de los años y los sexenios? La región carbonífera yo creo que es una zona de sacrificio, es decir, no importa cuánto tiempo pase o quién gobierne. Al final, incluso un gobierno que se dice de izquierda no es capaz de sancionar a un empresario. Es decir, están dispuestos a sacrificar esta región por el carbón. Y obviamente no van a entender el caso Pasta de Conchos por dos razones. La primera es porque es en donde se abre el tema a la minería canadiense; y yo pienso que era una condición de las mineras canadienses: “No queremos zafarranchos como el de Pasta de Conchos cuando suceda algo”. Pero no tiene que ver sólo con la apertura (a la minería extranjera); en el tema del carbón, sólo hay empresas mexicanas. Entonces llega el tema de los Zetas. Para ocultar el desorden que hay en la minería del carbón y el abuso, vinculaban a la minería con los Zetas.
 
 A pesar del temor que esas declaraciones pueden ocasionar en ciertas personas, este no fue el caso de las familias en Pasta de Conchos, pues tanto Auerbach Benavides como las familiares de las victimas continuaron su búsqueda, descubriendo así que no existía tal grupo criminal en la región carbonífera.
