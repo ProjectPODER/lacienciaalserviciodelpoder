@@ -2,7 +2,7 @@
 layout: post
 title: "Los expertos en economía que dejaron crisis financiera en al CIDE"
 author: "Ricardo Balderas"
-image: "photo1656379727(1).jpeg"
+image: photo1656379727(1).jpeg
 ---
 
 Es cierto que en el Centro de Investigación y Docencia Económica A.C. (CIDE) está transitando por una crisis; también es cierto que existe una deuda de salario con los profesores que ahí trabajan. Y también es cierto que la comunidad estudiantil continúa exigiendo la expulsión del actual director,  José Antonio Romero, por considerarlo un funcionario apócrifo. Sin embargo, también es cierto que el conflicto va más allá de un titular impuesto o una deuda pendiente. Se trata de un centro de investigación, especializado en ciencias económicas, que llegó a la actual administración con un conflicto de presunta malversación de fondos, lujos ejercidos por exdirectores, insuficiencia presupuestal y señalamientos por gastos no justificados ante la Auditoria Superior de la Federación (ASF)[^nota1].
@@ -31,17 +31,19 @@ Antes de que llegara la administración de López Obrador, había proyectos que 
 El conflicto en esta institución académica encrudece cuando los llamados Fondos Propios desaparecen del presupuesto federal. A raíz de esto un total de 108 profesores y personal administrativo que esperaban recibir estos fondos superiores a su salario gracias al programa impulsado en administraciones pasadas, mostraron su descontento. El saldo pendiente actual hacia estos trabajadores alcanza un total de 13 millones de pesos.
 
 
-{:.image-post}
-![Profesores con saldos por cobrar]({{ site.baseurl }}/assets/img/CIDE/90M LISTADO DE PERSONAL ADEUDO ESTÍMULOS.pdf)
+<div class="embed-responsive embed-responsive-4by3 mb-4">
+  <iframe class="embed-responsive-item" src="/assets/img/CIDE/90M-LISTADO-DE-PERSONAL-ADEUDO-ESTÍMULOS.pdf"></iframe>
+</div>
+<br>
 
 Al respecto de la deuda, el actual director, José Romero Tellaeche, comentó en entrevista exclusiva para PODER que se trata de un sistema insostenible en donde, además de generar privilegios, se promovían situaciones como el conflicto de interés, y explica lo siguiente:
 
 –Lo que más les interesa ahora (al personal docente) es que se liberen las Reglas de Operación para que puedan seguir recibiendo proyectos externos y ganen más dinero que el que se gana por el sueldo como profesores. Para eso se pusieron unas reglas de operación muy estrictas y requieren aprobación. Parte de los cambios que hicimos es que ahora, ni el Director General, el Secretario Académico o el Secretario de Vinculación pueden participar en proyectos para evitar el conflicto de intereses cosa que sí hacían en el pasado.
 
 <div class="embed-responsive embed-responsive-16by9">
-	<iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=pFPKhru9-S4&t=32s" allowfullscreen></iframe>
+	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/pFPKhru9-S4&t=32s" allowfullscreen></iframe>
 </div>
-
+<br>
 
 Es decir, el dinero no ha desaparecido de las arcas del erario, pero se usará de manera distinta, en palabras del director: “con más cautela”. Otro punto relevante, es que existen casos de profesores que concentraban estos fondos y los proyectos que ahora mismo se encuentran en disputa.
 
@@ -77,13 +79,17 @@ Salazar Rebolledo también comenta que actualmente se encuentra en mitad de un p
 
 
 {:.image-post}
-![Imagen_denuncia_VS_ Romero]({{ site.baseurl }}/assets/img/CIDE/WhatsApp Image 2022-06-29 at 9.40.31 AM.jpeg)
+![Imagen_denuncia_VS_ Romero]({{ site.baseurl }}/assets/img/CIDE/WhatsApp-Image-2022-06-29-at-9.40.31-AM.jpeg)
+<br>
 
-{:.image-post}
-![Denuncia_trimestre]({{ site.baseurl }}/assets/img/CIDE/Denuncia del Trimestre.pdf)
+<div class="embed-responsive embed-responsive-4by3 mb-4">
+  <iframe class="embed-responsive-item" src="/assets/img/CIDE/Denuncia-del-Trimestre.pdf"></iframe>
+</div>
+<br>
 
 {:.image-post}
 ![MEYER_PLAGIO]({{ site.baseurl }}/assets/img/CIDE/JEAN_MEYER.png)
+<br>
 
 Sobre la denuncia de presunto plagio que refiere al académico Jean Meyer, Salazar Robolledo comentó que su grupo no se han cuestionado comenzar un proceso como el que inician en contra de Romero Tellaeche dado a que es un tema que pasó hace mucho tiempo: “Este tema no se planteó porque no surgió en este momento; en el momento en el que Meyer fue acusado de plagio, probablemente, quienes estaban activamente en el CIDE habrán hecho un posicionamiento”, explicó.
 
