@@ -6,6 +6,11 @@ image: CUERPOS_DE_PAZ.jpg
 ---
 El exdirector del Consejo Nacional de Ciencia y Tecnología (Conacyt), Jaime Parada Avila, firmó un contrato con el gobierno de Estados Unidos para atraer un cuerpo de “investigadores especializados en ciencias económicas y tecnológicas” que en otras partes del mundo fueron expulsados y acusados de nexos con el narcotráfico e intervencionismo. Se trata de un grupo de personas pertenientes a los Cuerpos de Paz, que el propio gobierno de Estados Unidos calificó como: “Evangelizadores de la democracia”. Ahora mismo, ninguna autoridad tiene información verificable de lo que estos académicos estuvieron realizando en México o cuánto costó que estos elementos operaran en tierras nacionales.
 
+<div class="embed-responsive embed-responsive-4by3 mb-4">
+  <iframe class="embed-responsive-item" src="lacienciaalserviciodelpoder/assets/img/Cuerpos_de_paz/document(23).pdf"></iframe>
+</div>
+<br>
+
 Los Cuerpos de Paz o Peace Corps, son una estructura norteamericana que desde sus orígenes fue constituida para “ayudar” a países a través de voluntarios que realizan trabajos en las áreas de salud, educación, negocios y agricultura, entre otras. En América Latina, según los académicos, Janeth Restrepo y Alfonso Insuasty, la organización sirvió para confrontar al “discurso comunista”, que según reportan expedientes del Congreso norteamericano, se expandía por todo el continente americano en el contexto de la Guerra Fría[^nota1].
 
 Estos elementos (los Peace Corps) llegaron a México a través del Consejo Nacional de Ciencia y Tecnología (Conacyt) el 12 de noviembre de 2003, y al poco tiempo de su arribo a México, fueron acusados por otros cuerpos docentes (nacionales) de servir como informantes de la Agencia Central de Inteligencia (CIA por sus siglas en inglés).
@@ -18,10 +23,6 @@ PODER solicitó vía transparencia todos los acuerdos y facturas firmados entre 
 </div>
 <br>
 
-<div class="embed-responsive embed-responsive-4by3 mb-4">
-  <iframe class="embed-responsive-item" src="lacienciaalserviciodelpoder/assets/img/Cuerpos_de_paz/document(23).pdf"></iframe>
-</div>
-<br>
 
 Al poco tiempo, académicos como Janeth Restrepo y Alfonso Insuasty reportaban casos de nexos con grupos criminales en Colombia con el objetivo de constituir un nuevo modelo de tráfico de drogas en América Latina[^nota2].
 
@@ -42,7 +43,6 @@ Este fenómeno de los Cuerpos de Paz, toma especial relevancia en un contexto de
 <div class="embed-responsive embed-responsive-16by9">
 	<iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=GhGeMY1RjQs" allowfullscreen></iframe>
 </div>
-
 
 ## Expulsan a los Cuerpos de Paz en Chiapas acusados de espías
 
