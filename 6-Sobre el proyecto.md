@@ -6,7 +6,7 @@ permalink: /sobre-el-proyecto/
 
 # Quiénes somos
 
-FOMIX, la ciencia del dinero es un trabajo periodístico del Departamento de Periodismo, Datos y Tecnología, de la organización PODER, que tiene como objetivo develar el uso opaco de algunos Fondos Mixtos (FOMIX), solicitados por prestigiosos académicos, políticos y dependencias gubernamentales al Consejo Nacional de Ciencia y Tecnología (Conacyt). Todas las afirmaciones aquí publicadas se encuentran debidamente justificadas con expedientes de libre acceso, información obtenida vía [Méxicoleaks](https://mexicoleaks.mx/) y entrevistas con los interesados que respondieron a nuestras solicitudes de entrevista antes del cierre de la edición.
+La ciencia al servicio del poder es un trabajo periodístico del Departamento de Periodismo, Datos y Tecnología, de la organización PODER, que tiene como objetivo develar el uso opaco de algunos Fondos Mixtos (FOMIX), solicitados por prestigiosos académicos, políticos y dependencias gubernamentales al Consejo Nacional de Ciencia y Tecnología (Conacyt). Todas las afirmaciones aquí publicadas se encuentran debidamente justificadas con expedientes de libre acceso, información obtenida vía [Méxicoleaks](https://mexicoleaks.mx/) y entrevistas con los interesados que respondieron a nuestras solicitudes de entrevista antes del cierre de la edición.
 
 Este proyecto es también una continuación de la investigación ([La Mafia de la Ciencia](https://lamafiadelaciencia.poderlatam.org/)), publicada por PODER en marzo de 2020.
 
@@ -28,16 +28,12 @@ Investigación y reportajes: Ricardo Balderas.
 
 Desarrollo Front End: Marisol Carrillo.
 
-Desarrollo Back End: Fernando Matzdorf.
+Desarrollo Back End: Marisol Carrillo.
 
-Coordinación de desarrollo: Martín Szyszlican.
+Comunicación: Miguel Soto y Mariela Alvarez.
 
-Comunicación: María Fernanda Wray y Mariela Alvarez.
+Coordinación del proyecto: Ricardo Balderas.
 
-Ilustración: Dani Scharf.
-
-Coordinación del proyecto: Claudia Ocaranza.
-
-Dirección del proyecto: Eduard Martín-Borregón.
+Dirección del proyecto: Elena Arengo y Fernanda Hopenhaym.
 
 Agradecimientos a todo el equipo de PODER.
