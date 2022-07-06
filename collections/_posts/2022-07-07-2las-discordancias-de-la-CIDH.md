@@ -53,7 +53,7 @@ Auerbach Benavides se refiere a las familias Montemayor y Garza González, respo
 Bajo ese contexto, PODER solicitó entrevista en más de 7 ocasiones con las autoridades de la CIDH con el objetivo de saber si la institución estaba al tanto de lo ocurrido. Sin embargo, primero derivaron la solicitud a la relatora encargada del tema y después, simplemente dejaron de responder.
 
 {:.image-post}
-![Elvira]({{ site.baseurl }}/assets/img/CIDH/)
+![Elvira]({{ site.baseurl }}/assets/img/CIDH/WhatsApp Image 2022-06-18 at 7.06.21 PM.jpeg)
 ______________________
 
 Reportaje de Ricardo Balderas editado por Elena Arengo.
