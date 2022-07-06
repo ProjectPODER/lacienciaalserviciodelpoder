@@ -41,7 +41,7 @@ Este fenómeno de los Cuerpos de Paz, toma especial relevancia en un contexto de
 
 [VIDEO_GARDUÑO]
 <div class="embed-responsive embed-responsive-16by9">
-	<iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=GhGeMY1RjQs" allowfullscreen></iframe>
+	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/GhGeMY1RjQs" allowfullscreen></iframe>
 </div>
 
 ## Expulsan a los Cuerpos de Paz en Chiapas acusados de espías
