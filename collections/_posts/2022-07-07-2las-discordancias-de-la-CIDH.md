@@ -2,7 +2,7 @@
 layout: post
 title: "Las discordancias de la CIDH: una historia de cárteles y entierros"
 author: "Ricardo Balderas"
-image: WhatsApp Image 2022-06-18 at 3.54.21 PM(2).jpeg
+image: /CIDH/WhatsApp-Image-2022-06-18-at-3.54.21-PM(2).jpeg
 ---
 
 El 6 de junio de este año, la Relatoría Especial sobre los Derechos Económicos, Sociales, Culturales y Ambientales (REDESCA) de la Comisión Interamericana de Derechos Humanos (CIDH) emitió su más reciente informe anual[^nota1]. Y en el apartado de Educación, en lo que respecta a la libertad académica, la institución internacional se pronunció “profundamente preocupada” por la investigación en contra de 31 científicos derivada de un presunto caso de asociación delictuosa. El documento levantó las alarmas de múltiples víctimas en el estado de Coahuila, dado que se trataba de las mismas personas que en 2007 apoyaron la decisión de la Secretaría del Trabajo de dejar enterrados a sus familiares en el interior de una mina propiedad de una de las empresas más grandes del país, Grupo México.

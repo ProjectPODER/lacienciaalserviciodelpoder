@@ -2,7 +2,7 @@
 layout: post
 title: El día que el COLEF Sur expulsó a los EE.UU de la frontera
 author: "Ricardo Balderas"
-image: CUERPOS_DE_PAZ.jpg
+image: /Cuerpos_de_paz/CUERPOS_DE_PAZ.jpg
 ---
 El exdirector del Consejo Nacional de Ciencia y Tecnología (Conacyt), Jaime Parada Avila, firmó un contrato con el gobierno de Estados Unidos para atraer un cuerpo de “investigadores especializados en ciencias económicas y tecnológicas” que en otras partes del mundo fueron expulsados y acusados de nexos con el narcotráfico e intervencionismo. Se trata de un grupo de personas pertenientes a los Cuerpos de Paz, que el propio gobierno de Estados Unidos calificó como: “Evangelizadores de la democracia”. Ahora mismo, ninguna autoridad tiene información verificable de lo que estos académicos estuvieron realizando en México o cuánto costó que estos elementos operaran en tierras nacionales.
 
