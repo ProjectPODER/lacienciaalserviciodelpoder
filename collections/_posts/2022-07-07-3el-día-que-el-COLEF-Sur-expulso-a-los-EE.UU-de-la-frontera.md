@@ -39,10 +39,11 @@ Este fenómeno de los Cuerpos de Paz, toma especial relevancia en un contexto de
 –Todas las guerras de intervención son fallidas cuando estas son ejecutadas por potencias o coaliciones de potencias. A nivel geopolítico, no pueden resolver estas potencias ya que serían objeto de reclamo de una intervención. Aquí hay un problema que tenemos que contemplar: tienen una parte militar y otra civil. Y bueno, las características son las siguientes: es una fuerza mínimamente de 1500 personas, es personal bilingüe, personal profesionalizado, y - un elemento muy importante -  no pueden actuar en nombre de una nación sino exclusivamente del organismo que las contiene.
 	Lo que se impulsó en América Latina, fue concretamente el avance de la revolución cubana. Recuerde sobre todo que a partir de los años 60 (del siglo pasado) se comienza con una política muy activa donde, curiosamente, los partidos comunistas de América Latina y proMoscú, se deslindan de la guerrilla y se deslindan de todo. Esta situación ocurrió en todo el continente principalmente con los movimientos estudiantiles de toda la región.
 
-[VIDEO_GARDUÑO]
+
 <div class="embed-responsive embed-responsive-16by9">
 	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/GhGeMY1RjQs" allowfullscreen></iframe>
 </div>
+<br>
 
 ## Expulsan a los Cuerpos de Paz en Chiapas acusados de espías
 
