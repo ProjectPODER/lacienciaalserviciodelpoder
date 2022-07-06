@@ -58,7 +58,7 @@
 @media (min-width: 992px) {
     .home-content {
         height: 100vh;
-        padding: 0;
+        padding: 5rem 0;
     }
 }
 
@@ -77,7 +77,7 @@
 
 @media (max-width: 456px) {
     .home-content {
-        background: url('./img/FOMIX-mobile.jpg');
+        background: url();
         background-position: bottom;
         background-repeat: no-repeat;
         background-attachment: scroll;
