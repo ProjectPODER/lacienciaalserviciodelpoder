@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Los expertos en economía que dejaron crisis financiera en al CIDE"
+title: "Los expertos en economía que dejaron crisis financiera al CIDE"
 author: "Ricardo Balderas"
 image: /CIDE/photo1656379727(1).jpeg
 ---
