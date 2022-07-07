@@ -49,7 +49,7 @@ Es decir, el dinero no ha desaparecido de las arcas del erario, pero se usará d
 
 Por ejemplo, el número habitual de proyectos asignados es de dos a cuatro por académico, no obstante, doce profesores estuvieron recibiendo fondos por presuntamente ejecutar de 5 a 10 proyectos al mismo tiempo que sus responsabilidades como docentes del CIDE. En algunos casos como el Jessica Ley Gutierrez o David Arellano Gault, quienes posteriormente denunciarían al director del CIDE, ostentan siete y cinco proyectos al mismo tiempo.
 
-Otro caso relevante es el de la Coordinadora Ejecutiva en Centro de Investigación y Docencia Económicas A.C., Cristina Galíndez Hernández, quien aparece como encargada en 10 proyecto al mismo tiempo, además de su plaza en el CIDE, y con un monto pendiente por liquidar de 762,770.00.
+Otro caso relevante es el de la Coordinadora Ejecutiva en Centro de Investigación y Docencia Económicas A.C., Cristina Galíndez Hernández, quien aparece como encargada en 10 proyectos al mismo tiempo, además de su plaza en el CIDE, y con un monto pendiente por liquidar de 762,770.00.
 
 Los dos académicos con montos más onerosos por cubrir son: Eduardo Sojo Garza con siete proyectos y 868 mil 660 pesos (además de su salario regular) y Cristina Galíndez Hernández con diez proyectos valuados en 762 mil 770 pesos más sus percepciones regulares. Dicho asunto, para Romero Tellaeche, también resulta anómalo:
 
